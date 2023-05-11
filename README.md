@@ -1,9 +1,6 @@
 <h1>Hi, I'm Duygu! </h1>
 <h2> Cubersecurity Projects:</h2>
 
-<!--
-**sduygud/sduygud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 S.Duygu Ozler
 425-000-0000
 sevalozler07@gmail.com
