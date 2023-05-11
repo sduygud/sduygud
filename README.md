@@ -1,6 +1,9 @@
 <h1>Hi, I'm Duygu! </h1>
 
 
+Hello, my name is Duygu and I'm currently making the transition from the digital marketing industry into the Cybersecurity field with Ethical Hacking. I've been doing everything I can to improve my skills and gain exposure, and have produced and released content that is currently in use today (see below). Thank you for reviewing my resume!
+
+
 S.Duygu Ozler
 
 sevalozler07@gmail.com
@@ -9,7 +12,7 @@ www.atlasconsultancylondon.co.uk
 
 https://www.linkedin.com/in/sevalduyguozler 
 
-Hello, my name is Duygu and I'm currently making the transition from the digital marketing industry into the Cybersecurity field with Ethical Hacking. I've been doing everything I can to improve my skills and gain exposure, and have produced and released content that is currently in use today (see below). Thank you for reviewing my resume!
+
 
 
 <h2> Cubersecurity Projects:</h2>
