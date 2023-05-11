@@ -1,23 +1,25 @@
 <h1>Hi, I'm Duygu! </h1>
 <h2> Cubersecurity Projects:</h2>
+www.atlasconsultancylondon.co.uk
 
 S.Duygu Ozler
-425-000-0000
 sevalozler07@gmail.com
 [https://www.linkedin.com/in/sevalduyguozler 
 INTRO
 
 Hello, my name is Duygu and I'm currently making the transition from the digital marketing industry into the Cybersecurity field with Ethical Hacking. I've been doing everything I can to improve my skills and gain exposure, and have produced and released content that is currently in use today (see below). Thank you for reviewing my resume!
 
-CERTIFICATIONS
+<h2> Certifications </h2>
 
 Google Cybersecurity Professional Certificate
+Data Analysis Skills Bootscamp
 
 
 EXPERIENCE
 
 Web Designer/ Digital Marketing 12/2015 - Present
-Company:	JTech LLC - jtech.io
+Company:	Atlas Consultancy London
+
 GitHub:	github.com/jtech.io (For Penetration Test Reports and Python Projects)
 YouTube:	youtube.com/jtech.io
 Developed of content for, as well as performed the following tasks:
